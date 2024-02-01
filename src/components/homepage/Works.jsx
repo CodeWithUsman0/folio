@@ -24,7 +24,7 @@ export default function Works({ forwardedRef }) {
             name="modern landing page"
             type="Web Design • Frontend Development"
             year="2023"
-            tools="HTML • CSS • JavaScript • Shery.js"
+            tools="HTML • CSS • JAVASCRIPT • SHERY.JS"
           />
         </div>
         {/* Project #2 */}
@@ -36,7 +36,7 @@ export default function Works({ forwardedRef }) {
             name="Awwesome animations"
             type="Frontend Development"
             year="2023"
-            tools="HTML • CSS • JavaScript"
+            tools="HTML • CSS • JAVASCRIPT"
           />
         </div>
         <div className="col-span-1 pt-0 md:col-span-5 md:pt-80">
@@ -58,7 +58,7 @@ export default function Works({ forwardedRef }) {
             name="Full Stack VS Code CLONE"
             type="Full Stack Development"
             year="2024"
-            tools="EJS • TailwindCSS • JavaScript • NodeJS • MongoDB"
+            tools="EJS • TAILWINDCSS • JAVASCRIPT • NODE.JS • MONGODB"
           />
         </div>
         <div className="col-span-1 h-fit md:col-span-4">
@@ -69,7 +69,7 @@ export default function Works({ forwardedRef }) {
             name="REJOUICE WEBSITE CLONE"
             type="Frontend Development"
             year="2023"
-            tools="HTML • CSS • JavaScript"
+            tools="HTML • CSS • JAVASCRIPT"
           />
 
         </div>
