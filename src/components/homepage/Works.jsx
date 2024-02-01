@@ -41,13 +41,13 @@ export default function Works({ forwardedRef }) {
         </div>
         <div className="col-span-1 pt-0 md:col-span-5 md:pt-80">
           <Projects
-            link="https://realbusinessaccountants.netlify.app"
+            link="https://nike-store-jsstack.vercel.app/"
             img={acc}
-            alt="3D website"
-            name="3D website"
+            alt="Nike Store"
+            name="Nike store"
             type="Frontend Development"
             year="2023"
-            tools="HTML • CSS • JavaScript"
+            tools="REACT • TAILWINDCSS • JAVASCRIPT"
           />
         </div>
         <div className="col-span-1 h-fit pt-0 md:col-span-8 md:pt-20">

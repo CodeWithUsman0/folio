@@ -42,7 +42,7 @@ export default function Contact() {
 
 
       <Heading title="Contact" />
-      <div ref={contactSection} className="mt-10 flex flex-col gap-20 md:grid md:grid-cols-6 md:px-12">
+      <div ref={contactSection} className="mt-10 flex flex-col gap-15 md:grid md:grid-cols-6 md:px-12">
         <div className="col-span-4">
           <h3 ref={heading} className="max-w-lg 2xl:max-w-3xl text-heading-3 2xl:text-7xl font-semibold leading-tight translate-y-10 opacity-0">
             Have an awesome idea? Let&apos;s bring it to life.
@@ -50,7 +50,7 @@ export default function Contact() {
           <p ref={body} className="mt-4 max-w-md 2xl:max-w-2xl text-body-2 2xl:text-4xl text-accent-100 translate-y-10 opacity-0">
             I am currently available for work. I am accepting new projects starting with you.
           </p>
-          <form
+          {/* <form
             name="contact"
             action="/contact"
             autoComplete="off"
@@ -120,7 +120,7 @@ export default function Contact() {
                 </span>
               </span>
             </button>
-          </form>
+          </form> */}
         </div>
         <div className="col-span-2 grid grid-cols-1 gap-x-4 gap-y-8 text-accent-300 sm:grid-cols-2 sm:gap-y-0 md:grid-cols-1">
           <div className="space-y-3 ">
