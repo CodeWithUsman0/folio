@@ -9,18 +9,18 @@ export default function Services() {
   ];
 
   const toolBoxItems = [
-    "JavaScript",
+    "JAVASCRIPT",
     "HTML",
     "CSS",
-    "Figma",
+    "FIGMA",
     "SASS",
     "GSAP",
-    "TailwindCSS",
-    "ReactJS",
-    "expressJS",
-    "NodeJS",
-    "MongoDB",
-    "git/github",
+    "TAILWINDCSS",
+    "REACT.JS",
+    "EXPRESS.JS",
+    "NODE.JS",
+    "MONGODB",
+    "GIT/GITHUB",
   ];
 
   return (
