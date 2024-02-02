@@ -18,11 +18,11 @@ export default function Works({ forwardedRef }) {
         {/* Project #1 */}
         <div className=" col-span-1 md:col-span-12">
           <Projects
-            link="https://musical-stroopwafel-1c2327.netlify.app/landing.html"
+            link="https://codewithusman0.github.io/MLP/"
             img={ibgroup}
             alt="modern landing page"
             name="modern landing page"
-            type="Web Design • Frontend Development"
+            type="Not For Moblie • Frontend Development"
             year="2023"
             tools="HTML • CSS • JAVASCRIPT • SHERY.JS"
           />
@@ -30,7 +30,7 @@ export default function Works({ forwardedRef }) {
         {/* Project #2 */}
         <div className="col-span-1 pt-0 md:col-span-7 md:pt-16">
           <Projects
-            link="https://mementostudio.netlify.app/"
+            link="https://codewithusman0.github.io/one24/"
             img={memento}
             alt="Awwesome animations"
             name="Awwesome animations"
@@ -63,7 +63,7 @@ export default function Works({ forwardedRef }) {
         </div>
         <div className="col-span-1 h-fit md:col-span-4">
           <Projects
-            link="https://sunnysidechallenge.netlify.app"
+            link="https://codewithusman0.github.io/REJ/"
             img={sunnyside}
             alt="REJOUICE WEBSITE CLONE"
             name="REJOUICE WEBSITE CLONE"
