@@ -5,7 +5,7 @@ export default function Services() {
   const expertiseItems = [
     "Web Development",
     "Web Design",
-    "App Development",
+    "App Design",
   ];
 
   const toolBoxItems = [
@@ -21,6 +21,7 @@ export default function Services() {
     "NODE.JS",
     "MONGODB",
     "GIT/GITHUB",
+    "PROMPT_ENGINEERING"
   ];
 
   return (
