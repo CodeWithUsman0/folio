@@ -21,7 +21,7 @@ export default function Services() {
     "NODE.JS",
     "MONGODB",
     "GIT/GITHUB",
-    "PROMPT_ENGINEERING"
+    "PROMPT_ENGINEER"
   ];
 
   return (
