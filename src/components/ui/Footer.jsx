@@ -12,7 +12,7 @@ export default function Footer() {
           <span className="font-extrabold uppercase 2xl:text-body-1">Usman Mughal</span>
         </div>
         <div>
-          <span className=" text-body-4 2xl:text-body-1">Site designed and coded with ❤️‍🔥</span>
+          <span className=" text-body-4 2xl:text-body-1">Don't copy my work ❤️‍🔥</span>
         </div>
       </div>
       <button onClick={toTop} className="col-span-2 flex items-center space-x-2 w-fit group 2xl:text-body-1">
