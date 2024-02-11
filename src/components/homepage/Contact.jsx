@@ -47,7 +47,7 @@ export default function Contact() {
           <h3 ref={heading} className="max-w-lg 2xl:max-w-3xl text-heading-3 2xl:text-7xl font-semibold leading-tight translate-y-10 opacity-0">
             Have an awesome idea? Let&apos;s bring it to life.
           </h3>
-          <p ref={body} className="mt-4 max-w-md 2xl:max-w-2xl text-body-2 2xl:text-4xl text-accent-100 translate-y-10 opacity-0">
+          <p ref={body} className="mt-10 max-w-md 2xl:max-w-2xl text-body-2 2xl:text-4xl text-accent-100 translate-y-10 opacity-0">
             I am currently available for work. I am accepting new projects starting with you.
           </p>
           {/* <form
