@@ -54,7 +54,10 @@ export default function NavBar({ sectionRefs }) {
       ref={navBar}
       className="fixed top-0 z-50 flex w-full -translate-y-full items-center justify-between bg-secondary-100 px-5 py-3"
     >
- <img src="/src/assets/icons/logo.jpg" alt="logo" width={35} hight={35} />
+    {/* logo */}
+      <a href="#hero" aria-label="Logo" className="z-50">
+ <img src="/src/assets/icons/logo.jpg" alt="" />
+      </a>
       <nav className=" space-x-7 font-grotesk text-body-3 sm:block">
         <a href="#about" className="group relative hidden md:inline-block">
           <span>about</span>
