@@ -54,11 +54,11 @@ export default function Works({ forwardedRef }) {
           <Projects
             link="https://godaddyuiclone.netlify.app"
             img={daddy}
-            alt="Full Stack VS Code CLONE"
-            name="Full Stack VS Code CLONE"
-            type="Full Stack Development"
+            alt="Ochi Website CLONE"
+            name="Ochi"
+            type="Frontend Development"
             year="2024"
-            tools="EJS • TAILWINDCSS • JAVASCRIPT • NODE.JS • MONGODB"
+            tools=" REACT • TAILWINDCSS • JAVASCRIPT"
           />
         </div>
         <div className="col-span-1 h-fit md:col-span-4">
