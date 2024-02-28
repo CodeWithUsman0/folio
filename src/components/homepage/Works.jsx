@@ -52,7 +52,7 @@ export default function Works({ forwardedRef }) {
         </div>
         <div className="col-span-1 h-fit pt-0 md:col-span-8 md:pt-20">
           <Projects
-            link="https://godaddyuiclone.netlify.app"
+            link="https://github.com/CodeWithUsman0/Ochi"
             img={daddy}
             alt="Ochi Website CLONE"
             name="Ochi"
