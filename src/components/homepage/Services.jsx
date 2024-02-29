@@ -20,8 +20,7 @@ export default function Services() {
     "EXPRESS.JS",
     "NODE.JS",
     "MONGODB",
-    "GIT/GITHUB",
-    "PROMPT_ENGINEER"
+    "GIT/GITHUB"
   ];
 
   return (
